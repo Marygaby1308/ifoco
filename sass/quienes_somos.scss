@@ -1,0 +1,27 @@
+.quienes_somos .cards {
+  border: 1px solid $blue-lagoon;
+  text-align: left;
+}
+
+.quienes_somos .cards h4 {
+  color: $very-dark-red;
+  font-size: 25px;
+}
+
+.quienes_somos .cards h4,
+.quienes_somos .cards p {
+  font-family: $source-sans;
+}
+
+.quienes_somos .cards p {
+  font-size: 16px;
+}
+
+.quienes_somos .text-image__text,
+.clients .text-image__text {
+  @include flex-basis(100%);
+}
+
+.quienes_somos .text-image__text p {
+  font-size: 18px;
+}

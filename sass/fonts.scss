@@ -1,0 +1,33 @@
+/*
+* TOC
+*
+* SOURCE SANS PRO
+* SOURCE SANS PRO EXTRA LIGHT
+*/
+/*------------------*\
+
+> SOURCE SANS PRO 
+
+\*------------------*/
+
+@font-face {
+    font-family: 'source sans pro';
+    src: url('../fonts/sourcesanspro-regular-webfont.woff2') format('woff2'),
+         url('../fonts/sourcesanspro-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*------------------*\
+
+> SOURCE SANS PRO EXTRA LIGHT
+
+\*------------------*/
+@font-face {
+    font-family: 'source sans pro extralight';
+    src: url('../fonts/sourcesanspro-extralight-webfont.woff2') format('woff2'),
+         url('../fonts/sourcesanspro-extralight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
